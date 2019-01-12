@@ -25,12 +25,13 @@ a, u {
     text-decoration: none;
 }
 
-span {
+a:hover {
+    background: #2d2d2d;
     transition: 0.3s;
 }
 
-span.clickable:hover {
-    background: #2d2d2d;
+span {
+    transition: 0.3s;
 }
 
 span.blue {
