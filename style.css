@@ -43,7 +43,7 @@ span.green {
 }
 
 .panel {
-    width: 40%;
+    width: 80%;
     padding: 2px 16px;
     margin: 10px auto;
     border-radius: 4px;
@@ -56,10 +56,6 @@ span.green {
     body {
         font-size: 12px;
         line-height: 16px;
-    }
-
-    .panel {
-        width: 60%;
     }
 }
 
